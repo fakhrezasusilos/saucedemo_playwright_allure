@@ -1,0 +1,5 @@
+[FAILED RESPONSE] 401 - https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN
+[FAILED RESPONSE] 401 - https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN
+[FAILED RESPONSE] 404 - https://saucelabs.com/_next/data/2zELUJ5hinK3ly1skb9Gr/request-demo.json
+[FAILED RESPONSE] 404 - https://saucelabs.com/_next/data/2zELUJ5hinK3ly1skb9Gr/index.json
+[FAILED RESPONSE] 404 - https://saucelabs.com/_next/data/2zELUJ5hinK3ly1skb9Gr/pricing.json
