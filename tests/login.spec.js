@@ -1,4 +1,4 @@
-import { test, expect } from '../fixtures/custom-test.js';
+import { test, expect } from '../fixtures/custom-test.js'; // Importing custom test fixture that contains logging functionality
 import LoginPage from '../functionality/LoginPage.js';
 
 test.describe('Login Page Tests', () => {
