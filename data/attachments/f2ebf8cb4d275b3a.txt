@@ -1,0 +1,2 @@
+[FAILED RESPONSE] 401 - https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN
+[FAILED RESPONSE] 401 - https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN

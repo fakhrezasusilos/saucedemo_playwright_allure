@@ -1,0 +1,242 @@
+[REQUEST] GET https://www.saucedemo.com/
+[RESPONSE] 200 - https://www.saucedemo.com/
+[REQUEST] GET https://www.saucedemo.com/manifest.json
+[REQUEST] GET https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500
+[REQUEST] GET https://www.saucedemo.com/static/css/main.f6c64be5.chunk.css
+[REQUEST] GET https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js
+[REQUEST] GET https://www.saucedemo.com/static/js/main.018d2d1e.chunk.js
+[RESPONSE] 200 - https://www.saucedemo.com/static/css/main.f6c64be5.chunk.css
+[RESPONSE] 200 - https://www.saucedemo.com/static/js/main.018d2d1e.chunk.js
+[RESPONSE] 200 - https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js
+[RESPONSE] 200 - https://www.saucedemo.com/manifest.json
+[RESPONSE] 200 - https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500
+[REQUEST] POST https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN
+[REQUEST] POST https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN
+[REQUEST] GET https://fonts.gstatic.com/s/dmsans/v16/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K6z9mXg.woff2
+[REQUEST] GET https://fonts.gstatic.com/s/dmmono/v15/aFTU7PB1QTsUX8KYthqQBK6PYK0.woff2
+[REQUEST] GET https://fonts.gstatic.com/s/dmmono/v15/aFTR7PB1QTsUX8KYvumzEYOtbYf-Vlg.woff2
+[RESPONSE] 200 - https://fonts.gstatic.com/s/dmsans/v16/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K6z9mXg.woff2
+[RESPONSE] 200 - https://fonts.gstatic.com/s/dmmono/v15/aFTU7PB1QTsUX8KYthqQBK6PYK0.woff2
+[RESPONSE] 200 - https://fonts.gstatic.com/s/dmmono/v15/aFTR7PB1QTsUX8KYvumzEYOtbYf-Vlg.woff2
+[REQUEST] GET https://www.saucedemo.com/service-worker.js
+[RESPONSE] 200 - https://www.saucedemo.com/service-worker.js
+[REQUEST] GET https://www.saucedemo.com/static/media/menu3x.52cc17a3.svg
+[REQUEST] GET https://www.saucedemo.com/static/media/close@3x.a30a8a1d.svg
+[REQUEST] GET https://www.saucedemo.com/static/media/sauce-backpack-1200x1500.0a0b85a3.jpg
+[REQUEST] GET https://www.saucedemo.com/static/media/bike-light-1200x1500.37c843b0.jpg
+[REQUEST] GET https://www.saucedemo.com/static/media/bolt-shirt-1200x1500.c2599ac5.jpg
+[REQUEST] GET https://www.saucedemo.com/static/media/sauce-pullover-1200x1500.51d7ffaf.jpg
+[REQUEST] GET https://www.saucedemo.com/static/media/red-onesie-1200x1500.2ec615b2.jpg
+[REQUEST] GET https://www.saucedemo.com/static/media/red-tatt-1200x1500.30dadef4.jpg
+[RESPONSE] 200 - https://www.saucedemo.com/static/media/menu3x.52cc17a3.svg
+[RESPONSE] 200 - https://www.saucedemo.com/static/media/close@3x.a30a8a1d.svg
+[RESPONSE] 200 - https://www.saucedemo.com/static/media/sauce-backpack-1200x1500.0a0b85a3.jpg
+[RESPONSE] 200 - https://www.saucedemo.com/static/media/bike-light-1200x1500.37c843b0.jpg
+[RESPONSE] 200 - https://www.saucedemo.com/static/media/bolt-shirt-1200x1500.c2599ac5.jpg
+[RESPONSE] 200 - https://www.saucedemo.com/static/media/sauce-pullover-1200x1500.51d7ffaf.jpg
+[RESPONSE] 200 - https://www.saucedemo.com/static/media/red-onesie-1200x1500.2ec615b2.jpg
+[RESPONSE] 200 - https://www.saucedemo.com/static/media/red-tatt-1200x1500.30dadef4.jpg
+[REQUEST] GET https://www.saucedemo.com/static/media/cart3x.3669d74a.svg
+[REQUEST] GET https://www.saucedemo.com/static/media/filter3x.2943df5b.svg
+[REQUEST] GET https://www.saucedemo.com/static/media/arrow3x.4b825b78.svg
+[RESPONSE] 200 - https://www.saucedemo.com/static/media/cart3x.3669d74a.svg
+[RESPONSE] 200 - https://www.saucedemo.com/static/media/filter3x.2943df5b.svg
+[RESPONSE] 200 - https://www.saucedemo.com/static/media/arrow3x.4b825b78.svg
+[REQUEST] GET https://saucelabs.com/
+[RESPONSE] 200 - https://saucelabs.com/
+[REQUEST] GET https://cdn.segment.com/analytics.js/v1/YOUR_API_KEY/analytics.min.js
+[REQUEST] GET https://saucelabs.com/site.webmanifest
+[REQUEST] GET https://accounts.google.com/gsi/client
+[REQUEST] GET https://saucelabs.com/_next/static/css/a6bfd14351f7326a.css
+[REQUEST] GET https://saucelabs.com/_next/static/chunks/webpack-7a98157ede451a91.js
+[REQUEST] GET https://saucelabs.com/_next/static/chunks/framework-945b357d4a851f4b.js
+[REQUEST] GET https://saucelabs.com/_next/static/chunks/main-10b28fed55bc5510.js
+[REQUEST] GET https://saucelabs.com/_next/static/chunks/pages/_app-2107c93c443bfcf3.js
+[REQUEST] GET https://saucelabs.com/_next/static/chunks/pages/index-5b4ad5c80e9f62a2.js
+[REQUEST] GET https://saucelabs.com/_next/static/sR7acYI5WEfPlgiS0Bxs4/_buildManifest.js
+[REQUEST] GET https://saucelabs.com/_next/static/sR7acYI5WEfPlgiS0Bxs4/_ssgManifest.js
+[RESPONSE] 200 - https://saucelabs.com/_next/static/css/a6bfd14351f7326a.css
+[RESPONSE] 200 - https://saucelabs.com/_next/static/chunks/webpack-7a98157ede451a91.js
+[RESPONSE] 200 - https://saucelabs.com/_next/static/chunks/pages/index-5b4ad5c80e9f62a2.js
+[RESPONSE] 200 - https://saucelabs.com/_next/static/chunks/main-10b28fed55bc5510.js
+[RESPONSE] 200 - https://saucelabs.com/_next/static/chunks/framework-945b357d4a851f4b.js
+[RESPONSE] 200 - https://saucelabs.com/_next/static/chunks/pages/_app-2107c93c443bfcf3.js
+[RESPONSE] 200 - https://saucelabs.com/_next/static/sR7acYI5WEfPlgiS0Bxs4/_buildManifest.js
+[RESPONSE] 200 - https://saucelabs.com/_next/static/sR7acYI5WEfPlgiS0Bxs4/_ssgManifest.js
+[RESPONSE] 200 - https://saucelabs.com/site.webmanifest
+[RESPONSE] 200 - https://accounts.google.com/gsi/client
+[REQUEST] GET https://www.googletagmanager.com/gtm.js?id=GTM-K9K459
+[REQUEST] POST https://o22339.ingest.sentry.io/api/4505557467594752/envelope/?sentry_key=d9ae8432ca8e442aa512c487f8327757&sentry_version=7&sentry_client=sentry.javascript.nextjs%2F7.77.0
+[REQUEST] GET https://saucelabs.com/_next/static/media/Aeonik-Regular.eba6c308.woff2
+[REQUEST] GET https://saucelabs.com/_next/static/media/AeonikFono-Regular.78662f0c.woff2
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/6UJkbFtZYeHrOdGodBeeq9/3ab13210dccb8a9c9b07cb81952813bd/bg.svg
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/1dFrjPkDCuAjNJeGvVENoe/afdae9d3c9329852028e3bb48f0ec649/Icon_name_Visual-UI__Color_green.svg
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/6NP2MARVLFog4lXcFYZdP8/08f16f164c6a6efc20a17a045eb8239c/visual-testing.png
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/3llcdZv20Fv0RTbXOvf7n/60cff9cf0bdaccd63ad5016badaea21d/insights-green.svg
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/6IrDDbTKcI7cZ6AaYOHWXy/2ab1290fddaa0bda09be560db64f36f8/sauce-insights-ai.png
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/3gXLRyRg0hcrvOA3qAANxq/acd5574532c56c53324161a4f48fb427/Icon_name_Mobile__Color_green.svg
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/3AiGghIs2gBEbuACH4L6dd/247ffd469a77d511f46dd3c9beca182a/mobile-app-testing.png
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/5z5ZjS1bJS3l9cAFNlDtSU/ca44f34a602ef0cf2c545a169743f3fa/Icon_name_Devices-crossbrowser__Color_green.svg
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/5NIDBM9ZZHIcUVtmPdVDpO/5d6c215a892c0a887053a1010992afe5/web-testing.png
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/7kr4vN3u6ruyLVAv2lrjKR/c89fbc5aa06c1f77ab8e69b5ab96f008/Icon_name_mobile-app-distribution__Color_green.svg
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/37JneivfQXBNp4HkmCLbyj/92cc107f71476c56cdf48b8b9b711453/mobile-app-distribution.png
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/5hqomWJbX54xaktRemCrmT/8f0c635c24a72fdb805a8706b6568c44/Icon_name_Error-debug__Color_green.svg
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/1Ct3kaUupfvzIbl9chqJaS/5e8c1e36b9c6a083f6e60b6c6f664bcf/Error_Reporting.png
+[REQUEST] GET https://saucelabs.com/_next/static/media/Aeonik-Bold.c721a165.woff2
+[RESPONSE] 200 - https://www.googletagmanager.com/gtm.js?id=GTM-K9K459
+[RESPONSE] 200 - https://o22339.ingest.sentry.io/api/4505557467594752/envelope/?sentry_key=d9ae8432ca8e442aa512c487f8327757&sentry_version=7&sentry_client=sentry.javascript.nextjs%2F7.77.0
+[RESPONSE] 200 - https://saucelabs.com/_next/static/media/Aeonik-Regular.eba6c308.woff2
+[RESPONSE] 200 - https://saucelabs.com/_next/static/media/AeonikFono-Regular.78662f0c.woff2
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/6UJkbFtZYeHrOdGodBeeq9/3ab13210dccb8a9c9b07cb81952813bd/bg.svg
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/1dFrjPkDCuAjNJeGvVENoe/afdae9d3c9329852028e3bb48f0ec649/Icon_name_Visual-UI__Color_green.svg
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/6NP2MARVLFog4lXcFYZdP8/08f16f164c6a6efc20a17a045eb8239c/visual-testing.png
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/3IkGkhXDAW6B4V04SnGsTl/5f207d6be2c1506ef52d187d95891759/Subtract.svg
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/5cJXK9VhrxOtqmD3fI9zuk/ae90451b922cda45eaf7f20aedfa24a4/Bank_of_America_logo.svg
+[REQUEST] GET https://saucelabs.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fvrc8wif0t20g%2F5ZJ1ND3HWWEspD2x5yBKm2%2F321d7ff7be449c003eab27a974eb8596%2FMicrosoft_logo_white.png&w=128&q=75
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/2VHnpQ9UKRmLWNhonp0Xv2/9e86de5e71b4cae928c593e832875228/Group.svg
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/7vWbYKyvdjpPwJ0AxczjGv/4d784f95cb739037ee70c1da04bb0108/Indeed_logo.svg
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/4Z8nTtnP2TeNEsesFoqjBv/669220a32eb191c6f462c077daed8400/Group.svg
+[REQUEST] GET https://images.ctfassets.net/vrc8wif0t20g/41wJK4d9hfDzgbKQGogAKz/736b48e234b2f2fa40626567ac19b59b/Vector.svg
+[RESPONSE] 200 - https://saucelabs.com/_next/static/media/Aeonik-Bold.c721a165.woff2
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/3llcdZv20Fv0RTbXOvf7n/60cff9cf0bdaccd63ad5016badaea21d/insights-green.svg
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/6IrDDbTKcI7cZ6AaYOHWXy/2ab1290fddaa0bda09be560db64f36f8/sauce-insights-ai.png
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/3gXLRyRg0hcrvOA3qAANxq/acd5574532c56c53324161a4f48fb427/Icon_name_Mobile__Color_green.svg
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/3AiGghIs2gBEbuACH4L6dd/247ffd469a77d511f46dd3c9beca182a/mobile-app-testing.png
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/5z5ZjS1bJS3l9cAFNlDtSU/ca44f34a602ef0cf2c545a169743f3fa/Icon_name_Devices-crossbrowser__Color_green.svg
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/5NIDBM9ZZHIcUVtmPdVDpO/5d6c215a892c0a887053a1010992afe5/web-testing.png
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/7kr4vN3u6ruyLVAv2lrjKR/c89fbc5aa06c1f77ab8e69b5ab96f008/Icon_name_mobile-app-distribution__Color_green.svg
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/37JneivfQXBNp4HkmCLbyj/92cc107f71476c56cdf48b8b9b711453/mobile-app-distribution.png
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/5hqomWJbX54xaktRemCrmT/8f0c635c24a72fdb805a8706b6568c44/Icon_name_Error-debug__Color_green.svg
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/1Ct3kaUupfvzIbl9chqJaS/5e8c1e36b9c6a083f6e60b6c6f664bcf/Error_Reporting.png
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/3IkGkhXDAW6B4V04SnGsTl/5f207d6be2c1506ef52d187d95891759/Subtract.svg
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/41wJK4d9hfDzgbKQGogAKz/736b48e234b2f2fa40626567ac19b59b/Vector.svg
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/7vWbYKyvdjpPwJ0AxczjGv/4d784f95cb739037ee70c1da04bb0108/Indeed_logo.svg
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/4Z8nTtnP2TeNEsesFoqjBv/669220a32eb191c6f462c077daed8400/Group.svg
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/5cJXK9VhrxOtqmD3fI9zuk/ae90451b922cda45eaf7f20aedfa24a4/Bank_of_America_logo.svg
+[RESPONSE] 200 - https://images.ctfassets.net/vrc8wif0t20g/2VHnpQ9UKRmLWNhonp0Xv2/9e86de5e71b4cae928c593e832875228/Group.svg
+[RESPONSE] 200 - https://saucelabs.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fvrc8wif0t20g%2F5ZJ1ND3HWWEspD2x5yBKm2%2F321d7ff7be449c003eab27a974eb8596%2FMicrosoft_logo_white.png&w=128&q=75
+[REQUEST] GET https://saucelabs.com/_next/static/chunks/4248.b76c39672f74b76e.js
+[REQUEST] GET https://saucelabs.com/images/quotes.svg
+[REQUEST] GET https://saucelabs.com/_next/static/chunks/9130.fa0484cc52aa7df6.js
+[REQUEST] GET https://saucelabs.com/_next/static/chunks/1112.e0d4f99a91c74ee3.js
+[REQUEST] GET https://cdn.contentful.com/spaces/vrc8wif0t20g/environments/master/entries?content_type=article&order=-fields.publishedDate&include=2&limit=3&fields.type.sys.contentType.sys.id=articleType&fields.type.fields.slug%5Bin%5D=blog
+[REQUEST] GET https://cdn.contentful.com/spaces/vrc8wif0t20g/environments/master/entries?content_type=article&order=-fields.publishedDate&fields.type.sys.contentType.sys.id=articleType&fields.type.fields.slug%5Bnin%5D=event%2Cnews&include=4&limit=2
+[REQUEST] GET https://saucelabs.com/images/logo-white.svg
+[REQUEST] GET https://saucelabs.com/images/black-double-chevron.svg
+[REQUEST] GET https://saucelabs.com/images/search.svg
+[RESPONSE] 200 - https://saucelabs.com/_next/static/chunks/4248.b76c39672f74b76e.js
+[RESPONSE] 200 - https://saucelabs.com/images/quotes.svg
+[RESPONSE] 200 - https://saucelabs.com/_next/static/chunks/9130.fa0484cc52aa7df6.js
+[RESPONSE] 200 - https://saucelabs.com/_next/static/chunks/1112.e0d4f99a91c74ee3.js
+[RESPONSE] 200 - https://cdn.contentful.com/spaces/vrc8wif0t20g/environments/master/entries?content_type=article&order=-fields.publishedDate&fields.type.sys.contentType.sys.id=articleType&fields.type.fields.slug%5Bnin%5D=event%2Cnews&include=4&limit=2
+[RESPONSE] 200 - https://cdn.contentful.com/spaces/vrc8wif0t20g/environments/master/entries?content_type=article&order=-fields.publishedDate&include=2&limit=3&fields.type.sys.contentType.sys.id=articleType&fields.type.fields.slug%5Bin%5D=blog
+[RESPONSE] 200 - https://saucelabs.com/images/logo-white.svg
+[RESPONSE] 200 - https://saucelabs.com/images/search.svg
+[RESPONSE] 200 - https://saucelabs.com/images/black-double-chevron.svg
+[REQUEST] GET https://saucelabs.com/_next/data/sR7acYI5WEfPlgiS0Bxs4/pricing.json
+[REQUEST] GET https://saucelabs.com/_next/data/sR7acYI5WEfPlgiS0Bxs4/request-demo.json
+[REQUEST] GET https://saucelabs.com/_next/data/sR7acYI5WEfPlgiS0Bxs4/index.json
+[RESPONSE] 200 - https://saucelabs.com/_next/data/sR7acYI5WEfPlgiS0Bxs4/index.json
+[RESPONSE] 200 - https://saucelabs.com/_next/data/sR7acYI5WEfPlgiS0Bxs4/pricing.json
+[RESPONSE] 200 - https://saucelabs.com/_next/data/sR7acYI5WEfPlgiS0Bxs4/request-demo.json
+[REQUEST] GET https://accounts.google.com/gsi/style
+[REQUEST] GET https://saucelabs.com/_next/static/chunks/ea88be26.375858f3cf93f50c.js
+[RESPONSE] 200 - https://accounts.google.com/gsi/style
+[RESPONSE] 200 - https://saucelabs.com/_next/static/chunks/ea88be26.375858f3cf93f50c.js
+[REQUEST] GET https://cdn.cookielaw.org/scripttemplates/otSDKStub.js?did=0c35383c-7f38-4135-b35d-096626a3b040
+[REQUEST] GET https://www.googletagmanager.com/gtag/js?id=G-8VH1KDRPL5&cx=c&gtm=4e58s0h2
+[REQUEST] GET https://pubads.g.doubleclick.net/activity;xsp=4926461;ord=9111268067082290?
+[REQUEST] GET https://cdn.cookielaw.org/consent/0c35383c-7f38-4135-b35d-096626a3b040/OtAutoBlock.js
+[REQUEST] GET https://snap.licdn.com/li.lms-analytics/insight.min.js
+[REQUEST] GET https://script.crazyegg.com/pages/scripts/0107/7806.js
+[REQUEST] GET https://www.redditstatic.com/ads/pixel.js
+[REQUEST] GET https://static.ads-twitter.com/uwt.js
+[REQUEST] GET https://bat.bing.com/bat.js
+[REQUEST] GET https://munchkin.marketo.net/munchkin.js
+[REQUEST] GET https://trk.techtarget.com/tracking.js
+[REQUEST] GET https://visitor.reactful.com/dist/main.rtfl.js
+[REQUEST] GET https://tag.clearbitscripts.com/v1/pk_1aa8881cc10a23551c9ffe489754af6c/tags.js
+[REQUEST] GET https://tracking.g2crowd.com/attribution_tracking/conversions/1349.js?p=https://saucelabs.com/&e=
+[REQUEST] GET https://js.navattic.com/sdk.js?key=pkey_cm34kvk5002ftrs3b7ie079gv
+[RESPONSE] 200 - https://cdn.cookielaw.org/scripttemplates/otSDKStub.js?did=0c35383c-7f38-4135-b35d-096626a3b040
+[RESPONSE] 200 - https://cdn.cookielaw.org/consent/0c35383c-7f38-4135-b35d-096626a3b040/OtAutoBlock.js
+[RESPONSE] 200 - https://www.googletagmanager.com/gtag/js?id=G-8VH1KDRPL5&cx=c&gtm=4e58s0h2
+[RESPONSE] 200 - https://snap.licdn.com/li.lms-analytics/insight.min.js
+[REQUEST] GET https://cdn.metadata.io/site-script.js
+[RESPONSE] 200 - https://pubads.g.doubleclick.net/activity;xsp=4926461;ord=9111268067082290?
+[RESPONSE] 200 - https://static.ads-twitter.com/uwt.js
+[REQUEST] POST https://ro95h65neo-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(5.6.1)%3B%20Search%20(5.6.1)%3B%20Browser%3B%20instantsearch.js%20(4.56.8)%3B%20react%20(18.3.1)%3B%20react-instantsearch%20(6.47.3)%3B%20react-instantsearch-hooks%20(6.47.3)%3B%20next.js%20(14.2.13)%3B%20JS%20Helper%20(3.14.0)&x-algolia-api-key=0c828b85e2fad9ca4d38a767d5864a29&x-algolia-application-id=RO95H65NEO
+[RESPONSE] 200 - https://script.crazyegg.com/pages/scripts/0107/7806.js
+[RESPONSE] 200 - https://bat.bing.com/bat.js
+[RESPONSE] 200 - https://trk.techtarget.com/tracking.js
+[RESPONSE] 200 - https://visitor.reactful.com/dist/main.rtfl.js
+[RESPONSE] 200 - https://js.navattic.com/sdk.js?key=pkey_cm34kvk5002ftrs3b7ie079gv
+[RESPONSE] 200 - https://tag.clearbitscripts.com/v1/pk_1aa8881cc10a23551c9ffe489754af6c/tags.js
+[RESPONSE] 200 - https://tracking.g2crowd.com/attribution_tracking/conversions/1349.js?p=https://saucelabs.com/&e=
+[RESPONSE] 200 - https://cdn.metadata.io/site-script.js
+[RESPONSE] 200 - https://munchkin.marketo.net/munchkin.js
+[RESPONSE] 200 - https://www.redditstatic.com/ads/pixel.js
+[REQUEST] GET https://saucelabs.com/_next/static/chunks/pages/pricing-fca412c268ba6607.js
+[REQUEST] GET https://www.google-analytics.com/analytics.js
+[RESPONSE] 200 - https://saucelabs.com/_next/static/chunks/pages/pricing-fca412c268ba6607.js
+[RESPONSE] 200 - https://ro95h65neo-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(5.6.1)%3B%20Search%20(5.6.1)%3B%20Browser%3B%20instantsearch.js%20(4.56.8)%3B%20react%20(18.3.1)%3B%20react-instantsearch%20(6.47.3)%3B%20react-instantsearch-hooks%20(6.47.3)%3B%20next.js%20(14.2.13)%3B%20JS%20Helper%20(3.14.0)&x-algolia-api-key=0c828b85e2fad9ca4d38a767d5864a29&x-algolia-application-id=RO95H65NEO
+[RESPONSE] 200 - https://www.google-analytics.com/analytics.js
+[REQUEST] GET https://saucelabs.com/_next/static/chunks/pages/request-demo-0deed735d9626ac3.js
+[REQUEST] POST https://pagead2.googlesyndication.com/ccm/collect?en=page_view&dr=www.saucedemo.com&dl=https%3A%2F%2Fsaucelabs.com%2F&scrsrc=www.googletagmanager.com&frm=0&rnd=1752700988.1756702907&navt=n&npa=1&gdid=dYWJhMj&gtm=45He58s0h2v6499317za200zd6499317xea&gcs=G100&gcd=13p3p3p3p5l1&dma_cps=-&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105427542~105427544&tft=1756702906580&tfd=4286&apve=1&apvf=sb
+[RESPONSE] 200 - https://saucelabs.com/_next/static/chunks/pages/request-demo-0deed735d9626ac3.js
+[REQUEST] GET https://assets.ctfassets.net/vrc8wif0t20g/5DXySi39xqnDYPCeE1rB0a/34975bea792650716c3fe21a36328d7d/sauce-hero-animation.json
+[REQUEST] GET https://cdn.cookielaw.org/consent/0c35383c-7f38-4135-b35d-096626a3b040/0c35383c-7f38-4135-b35d-096626a3b040.json
+[REQUEST] GET https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
+[REQUEST] POST https://px.ads.linkedin.com/wa/?medium=fetch
+[REQUEST] GET https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=297612&time=1756702906705&li_adsId=d42d86c9-018f-4d02-a977-d24bcb0882e0&url=https%3A%2F%2Fsaucelabs.com%2F&tm=gtmv2
+[REQUEST] GET https://ibc-flow.techtarget.com/a/gif.gif?actTypeId=31&cid=4834691&r=1756702906710&ref=https%3A%2F%2Fsaucelabs.com%2F&version=2.4
+[REQUEST] GET https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Apple%20Computer%2C%20Inc.%26Linux%20x86_64%26255%261280%26720%264%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=bcd627ad-d4a6-4be8-a4dc-b684f18f581e&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=d04fc009-6167-470d-bb6f-87e242dc5cd8&tw_document_href=https%3A%2F%2Fsaucelabs.com%2F&tw_iframe_status=0&txn_id=o91xb&type=javascript&version=2.3.33
+[REQUEST] GET https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Apple%20Computer%2C%20Inc.%26Linux%20x86_64%26255%261280%26720%264%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=bcd627ad-d4a6-4be8-a4dc-b684f18f581e&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=d04fc009-6167-470d-bb6f-87e242dc5cd8&tw_document_href=https%3A%2F%2Fsaucelabs.com%2F&tw_iframe_status=0&txn_id=o91xb&type=javascript&version=2.3.33
+[REQUEST] GET https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Apple%20Computer%2C%20Inc.%26Linux%20x86_64%26255%261280%26720%264%2624%261280%26720%260%26na&eci=4&event=%7B%7D&event_id=524422b1-8b16-4d1b-a989-689e07d9d9bb&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=d04fc009-6167-470d-bb6f-87e242dc5cd8&tw_document_href=https%3A%2F%2Fsaucelabs.com%2F&tw_iframe_status=0&txn_id=tw-o91xb-oevf9&type=javascript&version=2.3.33
+[REQUEST] GET https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Apple%20Computer%2C%20Inc.%26Linux%20x86_64%26255%261280%26720%264%2624%261280%26720%260%26na&eci=4&event=%7B%7D&event_id=524422b1-8b16-4d1b-a989-689e07d9d9bb&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=d04fc009-6167-470d-bb6f-87e242dc5cd8&tw_document_href=https%3A%2F%2Fsaucelabs.com%2F&tw_iframe_status=0&txn_id=tw-o91xb-oevf9&type=javascript&version=2.3.33
+[REQUEST] GET https://www.googletagmanager.com/gtag/destination?id=AW-859579558&cx=c&gtm=4e58s0h2
+[REQUEST] POST https://tracking-api.g2.com/attribution_tracking/conversions/assign
+[REQUEST] GET https://munchkin.marketo.net/164/munchkin.js
+[REQUEST] GET https://visitor.reactful.com/config/367192/?page=%2F&hash=&referer=https%3A%2F%2Fwww.saucedemo.com%2F&user_id=&hshkgid=2a8ca224-e6db-4f7f-a9db-975181fbf21a&cb_rtfl=_rtfl_jsonp_0
+[REQUEST] GET https://pixel-config.reddit.com/pixels/t2_hmvrjy5a/config
+[REQUEST] GET https://alb.reddit.com/rp.gif?ts=1756702907301&id=t2_hmvrjy5a&event=PageVisit&m.itemCount=undefined&m.value=&m.valueDecimal=undefined&m.currency=undefined&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=f0139c54-77e8-4a19-ba58-813c4720fc0b&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=&partner_version=&opt_out=0&sh=1280&sw=720&v=rdt_646b36ad&dpm=&dpcc=&dprc=
+[REQUEST] GET https://www.redditstatic.com/ads/conversions-config/v1/pixel/config/t2_hmvrjy5a_telemetry
+[REQUEST] GET https://x.clearbitjs.com/v2/pk_1aa8881cc10a23551c9ffe489754af6c/destinations.min.js
+[REQUEST] GET https://x.clearbitjs.com/v2/pk_1aa8881cc10a23551c9ffe489754af6c/tracking.min.js
+[REQUEST] GET https://x.clearbitjs.com/v1/pk_1aa8881cc10a23551c9ffe489754af6c/forms.js?page_path=%2F
+[REQUEST] GET https://app.navattic.com/api/visitors/config?key=pkey_cm34kvk5002ftrs3b7ie079gv
+[REQUEST] GET https://www.googletagmanager.com/static/service_worker/5840/sw_iframe.html?origin=https%3A%2F%2Fsaucelabs.com
+[RESPONSE] 200 - https://pagead2.googlesyndication.com/ccm/collect?en=page_view&dr=www.saucedemo.com&dl=https%3A%2F%2Fsaucelabs.com%2F&scrsrc=www.googletagmanager.com&frm=0&rnd=1752700988.1756702907&navt=n&npa=1&gdid=dYWJhMj&gtm=45He58s0h2v6499317za200zd6499317xea&gcs=G100&gcd=13p3p3p3p5l1&dma_cps=-&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105427542~105427544&tft=1756702906580&tfd=4286&apve=1&apvf=sb
+[RESPONSE] 200 - https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
+[RESPONSE] 200 - https://cdn.cookielaw.org/consent/0c35383c-7f38-4135-b35d-096626a3b040/0c35383c-7f38-4135-b35d-096626a3b040.json
+[REQUEST] GET https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location
+[RESPONSE] 200 - https://assets.ctfassets.net/vrc8wif0t20g/5DXySi39xqnDYPCeE1rB0a/34975bea792650716c3fe21a36328d7d/sauce-hero-animation.json
+[RESPONSE] 204 - https://px.ads.linkedin.com/wa/?medium=fetch
+[RESPONSE] 302 - https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=297612&time=1756702906705&li_adsId=d42d86c9-018f-4d02-a977-d24bcb0882e0&url=https%3A%2F%2Fsaucelabs.com%2F&tm=gtmv2
+[REQUEST] GET https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=297612&time=1756702906705&li_adsId=d42d86c9-018f-4d02-a977-d24bcb0882e0&url=https%3A%2F%2Fsaucelabs.com%2F&tm=gtmv2&cookiesTest=true
+[RESPONSE] 200 - https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Apple%20Computer%2C%20Inc.%26Linux%20x86_64%26255%261280%26720%264%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=bcd627ad-d4a6-4be8-a4dc-b684f18f581e&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=d04fc009-6167-470d-bb6f-87e242dc5cd8&tw_document_href=https%3A%2F%2Fsaucelabs.com%2F&tw_iframe_status=0&txn_id=o91xb&type=javascript&version=2.3.33
+[RESPONSE] 200 - https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Apple%20Computer%2C%20Inc.%26Linux%20x86_64%26255%261280%26720%264%2624%261280%26720%260%26na&eci=4&event=%7B%7D&event_id=524422b1-8b16-4d1b-a989-689e07d9d9bb&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=d04fc009-6167-470d-bb6f-87e242dc5cd8&tw_document_href=https%3A%2F%2Fsaucelabs.com%2F&tw_iframe_status=0&txn_id=tw-o91xb-oevf9&type=javascript&version=2.3.33
+[RESPONSE] 200 - https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Apple%20Computer%2C%20Inc.%26Linux%20x86_64%26255%261280%26720%264%2624%261280%26720%260%26na&eci=4&event=%7B%7D&event_id=524422b1-8b16-4d1b-a989-689e07d9d9bb&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=d04fc009-6167-470d-bb6f-87e242dc5cd8&tw_document_href=https%3A%2F%2Fsaucelabs.com%2F&tw_iframe_status=0&txn_id=tw-o91xb-oevf9&type=javascript&version=2.3.33
+[RESPONSE] 200 - https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Apple%20Computer%2C%20Inc.%26Linux%20x86_64%26255%261280%26720%264%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=bcd627ad-d4a6-4be8-a4dc-b684f18f581e&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=d04fc009-6167-470d-bb6f-87e242dc5cd8&tw_document_href=https%3A%2F%2Fsaucelabs.com%2F&tw_iframe_status=0&txn_id=o91xb&type=javascript&version=2.3.33
+[RESPONSE] 200 - https://ibc-flow.techtarget.com/a/gif.gif?actTypeId=31&cid=4834691&r=1756702906710&ref=https%3A%2F%2Fsaucelabs.com%2F&version=2.4
+[REQUEST] GET blob:https://saucelabs.com/c450fdce-2c9d-4dfb-bbbd-68f21f6487ea
+[RESPONSE] 200 - https://www.googletagmanager.com/gtag/destination?id=AW-859579558&cx=c&gtm=4e58s0h2
+[RESPONSE] 200 - https://munchkin.marketo.net/164/munchkin.js
+[RESPONSE] 200 - https://www.redditstatic.com/ads/conversions-config/v1/pixel/config/t2_hmvrjy5a_telemetry
+[RESPONSE] 200 - https://www.googletagmanager.com/static/service_worker/5840/sw_iframe.html?origin=https%3A%2F%2Fsaucelabs.com
+[RESPONSE] 200 - https://pixel-config.reddit.com/pixels/t2_hmvrjy5a/config
+[RESPONSE] 200 - https://tracking-api.g2.com/attribution_tracking/conversions/assign
+[RESPONSE] 200 - https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=297612&time=1756702906705&li_adsId=d42d86c9-018f-4d02-a977-d24bcb0882e0&url=https%3A%2F%2Fsaucelabs.com%2F&tm=gtmv2&cookiesTest=true
+[RESPONSE] 200 - blob:https://saucelabs.com/c450fdce-2c9d-4dfb-bbbd-68f21f6487ea
+[RESPONSE] 200 - https://alb.reddit.com/rp.gif?ts=1756702907301&id=t2_hmvrjy5a&event=PageVisit&m.itemCount=undefined&m.value=&m.valueDecimal=undefined&m.currency=undefined&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=f0139c54-77e8-4a19-ba58-813c4720fc0b&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=&partner_version=&opt_out=0&sh=1280&sw=720&v=rdt_646b36ad&dpm=&dpcc=&dprc=
+[RESPONSE] 200 - https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location
+[REQUEST] GET https://cdn.cookielaw.org/scripttemplates/202301.2.0/otBannerSdk.js
+[RESPONSE] 200 - https://visitor.reactful.com/config/367192/?page=%2F&hash=&referer=https%3A%2F%2Fwww.saucedemo.com%2F&user_id=&hshkgid=2a8ca224-e6db-4f7f-a9db-975181fbf21a&cb_rtfl=_rtfl_jsonp_0
+[REQUEST] GET blob:https://saucelabs.com/2a4e1e77-7f31-4916-882c-49e8cad17377
+[RESPONSE] 200 - https://x.clearbitjs.com/v2/pk_1aa8881cc10a23551c9ffe489754af6c/destinations.min.js
+[RESPONSE] 200 - https://x.clearbitjs.com/v1/pk_1aa8881cc10a23551c9ffe489754af6c/forms.js?page_path=%2F
+[RESPONSE] 200 - https://x.clearbitjs.com/v2/pk_1aa8881cc10a23551c9ffe489754af6c/tracking.min.js
+[RESPONSE] 200 - https://cdn.cookielaw.org/scripttemplates/202301.2.0/otBannerSdk.js
+[RESPONSE] 200 - blob:https://saucelabs.com/2a4e1e77-7f31-4916-882c-49e8cad17377
+[RESPONSE] 200 - https://app.navattic.com/api/visitors/config?key=pkey_cm34kvk5002ftrs3b7ie079gv
+[REQUEST] GET https://www.googletagmanager.com/static/service_worker/5840/sw.js?origin=https%3A%2F%2Fsaucelabs.com
